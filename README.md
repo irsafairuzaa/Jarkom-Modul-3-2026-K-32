@@ -8,7 +8,7 @@ Laporan resmi Praktikum Modul 3 Komunikasi Data & Jaringan Komputer 2026
 | Kelompok | K-32 |
 | Prefix IP | `192.227` |
 | Domain | `k32.com` |
-| Anggota | _isi nama & NRP anggota kelompok_ |
+| Anggota | Anargya Shafa Setiyadi Putra - 5027251081 |
 
 ---
 
